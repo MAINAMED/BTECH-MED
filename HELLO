@@ -1,0 +1,7 @@
+echo "# BTECH-MED" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MAINAMED/BTECH-MED.git
+git push -u origin main
